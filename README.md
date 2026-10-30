@@ -1,4 +1,4 @@
-# AI-Assignments
+# Styled Webpage
 My web development assignments
 Styled Webpage
 
